@@ -1,0 +1,13 @@
+C:\Users\ingan\source\repos\MillonAndUpFront\DomainBD\bin\Debug\netcoreapp2.1\DomainBD.deps.json
+C:\Users\ingan\source\repos\MillonAndUpFront\DomainBD\bin\Debug\netcoreapp2.1\DomainBD.runtimeconfig.json
+C:\Users\ingan\source\repos\MillonAndUpFront\DomainBD\bin\Debug\netcoreapp2.1\DomainBD.runtimeconfig.dev.json
+C:\Users\ingan\source\repos\MillonAndUpFront\DomainBD\bin\Debug\netcoreapp2.1\DomainBD.dll
+C:\Users\ingan\source\repos\MillonAndUpFront\DomainBD\bin\Debug\netcoreapp2.1\DomainBD.pdb
+C:\Users\ingan\source\repos\MillonAndUpFront\DomainBD\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ingan\source\repos\MillonAndUpFront\DomainBD\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ingan\source\repos\MillonAndUpFront\DomainBD\obj\Debug\netcoreapp2.1\DomainBD.csproj.CoreCompileInputs.cache
+C:\Users\ingan\source\repos\MillonAndUpFront\DomainBD\obj\Debug\netcoreapp2.1\DomainBD.AssemblyInfoInputs.cache
+C:\Users\ingan\source\repos\MillonAndUpFront\DomainBD\obj\Debug\netcoreapp2.1\DomainBD.AssemblyInfo.cs
+C:\Users\ingan\source\repos\MillonAndUpFront\DomainBD\obj\Debug\netcoreapp2.1\DomainBD.csproj.CopyComplete
+C:\Users\ingan\source\repos\MillonAndUpFront\DomainBD\obj\Debug\netcoreapp2.1\DomainBD.dll
+C:\Users\ingan\source\repos\MillonAndUpFront\DomainBD\obj\Debug\netcoreapp2.1\DomainBD.pdb

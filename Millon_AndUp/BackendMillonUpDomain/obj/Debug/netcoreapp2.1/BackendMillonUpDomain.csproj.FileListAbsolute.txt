@@ -1,0 +1,11 @@
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpDomain\bin\Debug\netcoreapp2.1\BackendMillonUpDomain.deps.json
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpDomain\bin\Debug\netcoreapp2.1\BackendMillonUpDomain.runtimeconfig.json
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpDomain\bin\Debug\netcoreapp2.1\BackendMillonUpDomain.runtimeconfig.dev.json
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpDomain\bin\Debug\netcoreapp2.1\BackendMillonUpDomain.dll
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpDomain\bin\Debug\netcoreapp2.1\BackendMillonUpDomain.pdb
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpDomain\obj\Debug\netcoreapp2.1\BackendMillonUpDomain.csprojAssemblyReference.cache
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpDomain\obj\Debug\netcoreapp2.1\BackendMillonUpDomain.csproj.CoreCompileInputs.cache
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpDomain\obj\Debug\netcoreapp2.1\BackendMillonUpDomain.AssemblyInfoInputs.cache
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpDomain\obj\Debug\netcoreapp2.1\BackendMillonUpDomain.AssemblyInfo.cs
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpDomain\obj\Debug\netcoreapp2.1\BackendMillonUpDomain.dll
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpDomain\obj\Debug\netcoreapp2.1\BackendMillonUpDomain.pdb

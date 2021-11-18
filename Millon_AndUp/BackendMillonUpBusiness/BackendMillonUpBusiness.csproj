@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BackendMillonAndUpDataAccess\BackendMillonAndUpDataAccess.csproj" />
+    <ProjectReference Include="..\BackendMillonUpDomain\BackendMillonUpDomain.csproj" />
+    <ProjectReference Include="..\BackendMillonUpEntity\BackendMillonUpEntity.csproj" />
+  </ItemGroup>
+
+</Project>

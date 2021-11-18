@@ -1,0 +1,16 @@
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\bin\Debug\netcoreapp2.1\LibService.deps.json
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\bin\Debug\netcoreapp2.1\LibService.dll
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\bin\Debug\netcoreapp2.1\LibService.pdb
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\bin\Debug\netcoreapp2.1\DomainBD.dll
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\bin\Debug\netcoreapp2.1\DomainBD.pdb
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\obj\Debug\netcoreapp2.1\LibService.csprojAssemblyReference.cache
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\obj\Debug\netcoreapp2.1\LibService.csproj.CoreCompileInputs.cache
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\obj\Debug\netcoreapp2.1\LibService.AssemblyInfoInputs.cache
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\obj\Debug\netcoreapp2.1\LibService.AssemblyInfo.cs
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\obj\Debug\netcoreapp2.1\LibService.csproj.CopyComplete
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\obj\Debug\netcoreapp2.1\LibService.dll
+C:\Users\ingan\source\repos\MillonAndUpFront\LibService\obj\Debug\netcoreapp2.1\LibService.pdb

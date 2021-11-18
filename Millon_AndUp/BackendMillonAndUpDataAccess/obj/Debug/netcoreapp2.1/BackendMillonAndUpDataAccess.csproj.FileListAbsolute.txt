@@ -1,0 +1,12 @@
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonAndUpDataAccess\bin\Debug\netcoreapp2.1\BackendMillonAndUpDataAccess.deps.json
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonAndUpDataAccess\bin\Debug\netcoreapp2.1\BackendMillonAndUpDataAccess.dll
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonAndUpDataAccess\bin\Debug\netcoreapp2.1\BackendMillonAndUpDataAccess.pdb
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonAndUpDataAccess\bin\Debug\netcoreapp2.1\BackendMillonUpDomain.dll
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonAndUpDataAccess\bin\Debug\netcoreapp2.1\BackendMillonUpDomain.pdb
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonAndUpDataAccess\obj\Debug\netcoreapp2.1\BackendMillonAndUpDataAccess.csprojAssemblyReference.cache
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonAndUpDataAccess\obj\Debug\netcoreapp2.1\BackendMillonAndUpDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonAndUpDataAccess\obj\Debug\netcoreapp2.1\BackendMillonAndUpDataAccess.AssemblyInfoInputs.cache
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonAndUpDataAccess\obj\Debug\netcoreapp2.1\BackendMillonAndUpDataAccess.AssemblyInfo.cs
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonAndUpDataAccess\obj\Debug\netcoreapp2.1\BackendMillonAndUpDataAccess.csproj.CopyComplete
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonAndUpDataAccess\obj\Debug\netcoreapp2.1\BackendMillonAndUpDataAccess.dll
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonAndUpDataAccess\obj\Debug\netcoreapp2.1\BackendMillonAndUpDataAccess.pdb

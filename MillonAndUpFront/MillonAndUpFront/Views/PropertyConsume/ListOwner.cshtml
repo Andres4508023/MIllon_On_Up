@@ -1,0 +1,81 @@
+﻿@model IEnumerable<DomainBD.Domain.Owner>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.11.3/datatables.min.css" />
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.11.3/datatables.min.js"></script>
+    <style> img {display: block; margin-left: auto; margin-right: auto;} </style>
+    <title>ListOwnerId</title>
+
+
+</head>
+<body>
+    <br /><br />
+    <div class="container">
+        <img src="~/images/Millon And Up_Black.png" class="img-circle" width="150" height="150">
+    </div>
+    <br /> <br />
+
+           <div class="container" style="width:80%;">
+
+               <div id="myAlert" class="alert alert-danger collapse">
+                   <a id="linkClose" href="#" class="close">&times;</a>
+                   <strong>Property record!</strong> deleted
+               </div>
+
+               <table id="idListOwner" class="table table-striped table-condensed" cellspacing="0">
+                   <thead>
+                       <tr>
+                           <th>Names Owner</th>
+                           <th>Adress Owner</th>
+                           <th>Age</th>
+                           <th>Telephone</th>
+                           <th>Email</th>
+                       </tr>
+                   </thead>
+                   <tbody>
+                       @if (ViewBag.ListOwnerId != null)
+                       {
+                           foreach (var item in ViewBag.ListOwnerId)
+                           {
+                               <tr id="row_@item.IdOwner">
+                                   <td>@item.NamesOwner</td>
+                                   <td>@item.AdressOwner</td>
+                                   <td>@item.Age</td>
+                                   <td>@item.Telephone</td>
+                                   <td>@item.Email</td>
+                               </tr>
+                           }
+                       }
+                   </tbody>
+               </table>
+               <p>
+                   <a asp-action="CreateOwner" class="btn btn-primary">
+                       New
+                       <i class="glyphicon glyphicon glyphicon-user"></i>
+                   </a>
+                   <a asp-action="ListProperties" class="btn btn-primary">
+                       LProperty
+                       <i class="glyphicon glyphicon-th-list"></i>
+                   </a>             
+               </p>            
+           </div>
+
+    <script>
+        $(document).ready(function () {
+            $('#idListOwner').DataTable();
+            $('.dataTables_length').addClass('bs-select');
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\bin\Debug\netcoreapp2.1\BackendMillonUpEntity.deps.json
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\bin\Debug\netcoreapp2.1\BackendMillonUpEntity.runtimeconfig.json
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\bin\Debug\netcoreapp2.1\BackendMillonUpEntity.runtimeconfig.dev.json
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\bin\Debug\netcoreapp2.1\BackendMillonUpEntity.dll
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\bin\Debug\netcoreapp2.1\BackendMillonUpEntity.pdb
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\bin\Debug\netcoreapp2.1\BackendMillonUpDomain.dll
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\bin\Debug\netcoreapp2.1\BackendMillonUpDomain.pdb
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\obj\Debug\netcoreapp2.1\BackendMillonUpEntity.csprojAssemblyReference.cache
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\obj\Debug\netcoreapp2.1\BackendMillonUpEntity.csproj.CoreCompileInputs.cache
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\obj\Debug\netcoreapp2.1\BackendMillonUpEntity.AssemblyInfoInputs.cache
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\obj\Debug\netcoreapp2.1\BackendMillonUpEntity.AssemblyInfo.cs
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\obj\Debug\netcoreapp2.1\BackendMillonUpEntity.csproj.CopyComplete
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\obj\Debug\netcoreapp2.1\BackendMillonUpEntity.dll
+C:\Users\ingan\source\repos\Millon_AndUp\BackendMillonUpEntity\obj\Debug\netcoreapp2.1\BackendMillonUpEntity.pdb
